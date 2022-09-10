@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🔭 I’m currently working as a Software Engineering Intern at Brigade Capital Management
+- 🌱 I’m persuing a Bachelors of Science in Cybersecurity with a minor in Computer Science at Stevens Institute of Technology
+
