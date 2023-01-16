@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 🔭 I’m currently working as a Software Engineering Intern at Brigade Capital Management
+- ⚡ This summer I will be a Production Engineering Intern @ Jump Trading
+- 🔭 I’m currently working as a Software Engineering Intern @ Brigade Capital Management
 - 🌱 I’m persuing a Bachelors of Science in Cybersecurity with a minor in Computer Science at Stevens Institute of Technology
 
