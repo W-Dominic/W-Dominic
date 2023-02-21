@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## About Me
 - ⚡ This summer I will be a Production Engineering Intern @ Jump Trading
 - 🌱 I’m persuing a Bachelors of Science in Cybersecurity with a minor in Computer Science at Stevens Institute of Technology
-- 👨‍💻 I enjoy Systems Programming and Backend Development
+- 👨‍💻 I enjoy Systems Programming, Backend Development, and Scalable System Design
 - 🦀 I am a fan of programming in Rust
 
