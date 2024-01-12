@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- ⚡ I will be joining Jump Trading as a full-time Tech Ops Engineer
-- 🌱 I’m persuing a Bachelors of Science in Cybersecurity with a minor in Computer Science at Stevens Institute of Technology
+- ⚡ I will be joining Jump Trading as a Linux Engineer
+- 🌱 I graduated with a Bachelors of Science in Cybersecurity with a minor in Computer Science from Stevens Institute of Technology
 - 👨‍💻 I enjoy Systems Programming, Backend Development, Concurrent Programming and Linux
 - 🦀 I like to develop in Rust and Go
 
